@@ -51,6 +51,12 @@ Networking is the backbone of modern computing, and understanding the client-ser
 3. Run the server and connect your clients to start exchanging data!
 
 🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Client-Server/tree/main)
+
+## 👥 Connect With Me:
+
+**Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
+Feel free to reach out for any questions or collaboration opportunities!
+
 Unlock the power of networking with this easy-to-use client-server system!
 
 
