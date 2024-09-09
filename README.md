@@ -4,7 +4,7 @@
 **Efficient, Reliable, and Secure Data Transfer between Clients and Servers!**
 
 **Overview:**
-This project implements a robust **Client-Server** communication system using Python, demonstrating how data is transmitted between a client and a server over a network. The tool focuses on secure, efficient, and reliable exchange of messages, making it a versatile solution for real-world networking applications. Whether you're transferring text, files, or any other data, this system ensures smooth and fast communication across devices.
+This project implements a robust **Client-Server** communication system using Java, demonstrating how data is transmitted between a client and a server over a network. The tool focuses on secure, efficient, and reliable exchange of messages, making it a versatile solution for real-world networking applications. Whether you're transferring text, files, or any other data, this system ensures smooth and fast communication across devices.
 
 **Key Features:**
 - **📶 Seamless Communication**: Establishes a reliable connection between the client and server, ensuring data is transmitted without interruption.
@@ -19,7 +19,7 @@ This project implements a robust **Client-Server** communication system using Py
 - **📂 Structured File Handling**: Organizes client-server requests and responses, ensuring clean and efficient file exchange when required.
 
 **Technologies Used:**
-- **Python**: The core programming language used for building the client-server communication model.
+- **Java**: The core programming language used for building the client-server communication model.
 - **Sockets**: Network socket programming is leveraged to establish the communication channel between the client and server.
 - **Multithreading**: Allows the server to handle multiple clients concurrently, enhancing the efficiency of the system.
 
