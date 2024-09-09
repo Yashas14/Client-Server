@@ -32,7 +32,6 @@ Networking is the backbone of modern computing, and understanding the client-ser
 - **📡 Reliable Data Exchange**: Ensures all messages between clients and servers are accurately transmitted, supporting both request/response cycles and file transfers.
 - **🛠 Modular Design**: Cleanly separates client and server logic, enabling ease of expansion and customization based on specific use cases.
 
----
 
 **Potential Use Cases:**
 - **📡 Chat Applications**: A foundation for building real-time chat platforms with multiple users.
@@ -51,8 +50,7 @@ Networking is the backbone of modern computing, and understanding the client-ser
 2. Install the required dependencies listed in the `requirements.txt`.
 3. Run the server and connect your clients to start exchanging data!
 
-🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Client-Server)
-
+🔗 **Explore the project:** [GitHub Repository](https://github.com/Yashas14/Client-Server/tree/main)
 Unlock the power of networking with this easy-to-use client-server system!
 
 
